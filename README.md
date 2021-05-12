@@ -1,0 +1,2 @@
+# smth
+tools/prs/tests
